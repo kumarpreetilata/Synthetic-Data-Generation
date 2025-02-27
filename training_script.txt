@@ -1,0 +1,44 @@
+
+Generate a corporate training script for a senior data visualisation engineer
+Include a trainer and a trainee discussing how to build advanced and interactive data visualization using Tableau/PowerBI.
+Provide a realistic conversation format.
+**Trainer:** Rachel, a seasoned data visualization expert with 10+ years of experience.
+**Trainee:** Alex, a junior data visualization engineer.
+
+---
+
+**Training Session: Advanced Data Visualization with Tableau/PowerBI**
+
+**Rachel:** Alex, welcome to our advanced data visualization training session! I'm excited to share my expertise with you. What do you hope to achieve from this session?
+
+**Alex:** Hi Rachel! I'm eager to learn how to create more interactive and engaging visualizations. I've been working with Tableau and PowerBI, but I feel like I'm hitting a plateau. I'd love to learn some new techniques and best practices.
+
+**Rachel:** Great attitude, Alex! Let's dive into some advanced topics. One of the most powerful features in Tableau is the ability to create interactive dashboards. Can you tell me about a time when you created a visualization that didn't quite meet the user's expectations?
+
+**Alex:** Hmm... I think I once created a dashboard for a client that was supposed to show sales trends over time. However, the users kept complaining that the visualization wasn't showing the data in a way that made sense to them. I had to redo the entire dashboard from scratch.
+
+**Rachel:** That's a great example! One of the key challenges in data visualization is making sure the visualization is intuitive and easy to understand. In Tableau, we can use features like filtering, drilling down, and hover-over text to create a more interactive experience. Let's take a look at how we can apply these features to your dashboard.
+
+**Rachel:** (opens Tableau and starts creating a new visualization) First, we need to create a new sheet and add a table to it. Then, we'll connect to the data source and create a filter to show only the top 10 sales regions.
+
+**Alex:** (observes and asks) What's the purpose of the filter? Is it to show the most important sales regions?
+
+**Rachel:** Exactly! By filtering the data, we're making it easier for the user to quickly understand the top-performing regions. Now, let's add a drill-down feature. We'll create a measure that shows the total sales amount for each region, and then connect it to a dashboard object.
+
+**Alex:** (impressed) Wow, that's really cool! How does it work?
+
+**Rachel:** When the user clicks on a region, the measure will update in real-time, showing the total sales amount. This creates a more immersive experience and helps the user gain a deeper understanding of the data.
+
+**Alex:** That's amazing! What about PowerBI? Can we achieve similar effects?
+
+**Rachel:** Absolutely! PowerBI has similar features, but the interface might be slightly different. For example, in PowerBI, we can use the "Expression Builder" to create measures and formulas. Let's try creating a similar measure in PowerBI.
+
+**Rachel:** (opens PowerBI and starts creating a new visualization) First, we'll create a new table and connect to the data source. Then, we'll create a measure using the Expression Builder.
+
+**Alex:** (observes and asks) How does the Expression Builder work?
+
+**Rachel:** The Expression Builder allows us to create formulas and measures using a visual interface. We can choose from a range of functions and operators to build complex calculations.
+
+**Alex:** That makes sense. What about advanced visualization techniques, like 3D maps or heatmaps?
+
+**Rachel:** Ah, those are some of my favorite topics! We can use features like the "Map" function in Tableau or the "Heatmap" function in PowerBI to create stunning visualizations. Let's take a look at how we can apply these features
